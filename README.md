@@ -37,7 +37,7 @@ Follow these steps to quickly get started with the [AS APIs](https://api-docs.al
 
 
 
-([![Run in Postman](https://run.pstmn.io/button.svg)](https://web.postman.co/network/import?collection=16904982-d2ecc9ee-6281-45a6-bb3f-1d82b891ec4e-U16jPSJe&referrer=https%3A%2F%2Fapi-docs.alphastream.io%2F%23237262a9-e85b-4398-a491-e34efe126a84&versionTag=latest&environment=10022312-614ac5be-ff90-40d8-bd62-b963270eaa36-U16jPSJe&traceId=undefined)
+([![Run in Postman](https://run.pstmn.io/button.svg)](https://web.postman.co/network/import?collection=16904982-d2ecc9ee-6281-45a6-bb3f-1d82b891ec4e-U16jPSJe&referrer=https%3A%2F%2Fapi-docs.alphastream.io%2F%23237262a9-e85b-4398-a491-e34efe126a84&versionTag=latest&environment=10022312-614ac5be-ff90-40d8-bd62-b963270eaa36-U16jPSJe&traceId=undefined))
 
 3. Once both the collection and the environment variables are imported into Postman, see the [Configuration](https://github.com/postman#configuration) section on how to correctly configure API keys with the collection.
 
@@ -83,8 +83,10 @@ The response will contain an `access_token` suitable for making calls in Product
 
 You can develop your insights dashboard by importing the data into a tool like PowerBI. 
 
-This is an EX. only... https://community.powerbi.com/t5/Data-Stories-Gallery/Stock-Market-Dashboard/td-p/1328610 
+This is an EX. only... 
 
- ![[bi-config]](https://github.com/raj-alphastream/postman1/blob/5b9b00bb4ff74c7219479881a41224a224f0ed56/images/CI-dashboard-ex.png)(/images/ex-1.PNG)
+https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png 
+ ![[bi-config]](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)
+
 
 Want to learn more? [Contact Us](https://alphastream.io/contact/) to request a custom analytics project with Alphastream. 
