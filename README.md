@@ -13,15 +13,15 @@ For Quickstart guides to our other API endpoints, see the [Alphastream Quickstar
 
 ### Sample examples to get started
 
-Here are 4 examples of how you can use these API endpoints that will be included in the CI Postman collection. 
+Here are some examples of how you can use these API endpoints that will be included in the CI Postman collection. 
 
 •Content Trends:
  1. Analysis example – how many tweets on an entity was published in last 24-hrs and was any anomaly detected? 
  2. Discovery example – what are the top-5 most spoken about entities in the last 3 days? 
  
- ![[plaid-postman-configuration]](https://github.com/raj-alphastream/postman1/blob/d73fcd7658909e298ff60a93f82a7dc9c24d7877/images/Trends%20Analysis.PNG))(/images/Trends Discovery.PNG)
+ ![[postman-configuration]](https://github.com/raj-alphastream/postman1/blob/d73fcd7658909e298ff60a93f82a7dc9c24d7877/images/Trends%20Analysis.PNG))(/images/Trends Discovery.PNG)
 
-![[plaid-postman-configuration]](https://github.com/raj-alphastream/postman1/blob/98887f7edd33d07d88b889acd75d93fa75f972d3/images/Trends%20Discovery.PNG)(/images/Trends Discovery.PNG)
+![[postman-configuration]](https://github.com/raj-alphastream/postman1/blob/98887f7edd33d07d88b889acd75d93fa75f972d3/images/Trends%20Discovery.PNG)(/images/Trends Discovery.PNG)
 
 •Content Coverage:
 Coverage by content volume within a specific sector/ sub-sector (Financial)
@@ -35,9 +35,9 @@ Follow these steps to quickly get started with the [AS APIs](https://api-docs.al
 1. [Contact Us](https://alphastream.io/contact/) to get a set of API keys that are required for interacting with the API if you do not already have them.
 2. Click the "Run in Postman" button below.
 
-https://web.postman.co/network/import?collection=16904982-d2ecc9ee-6281-45a6-bb3f-1d82b891ec4e-U16jPSJe&referrer=https%3A%2F%2Fapi-docs.alphastream.io%2F%23237262a9-e85b-4398-a491-e34efe126a84&versionTag=latest&environment=10022312-614ac5be-ff90-40d8-bd62-b963270eaa36-U16jPSJe&traceId=undefined
 
-([![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5b25e16aa557c7cf8e31?action=collection%2Fimport#?env%5BSandbox%5D=W3sia2V5IjoiY2xpZW50X2lkIiwidmFsdWUiOiJZT1VSX0NMSUVOVF9JRCIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJzZWNyZXRfa2V5IiwidmFsdWUiOiJZT1VSX1NFQ1JFVF9LRVkiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoic2VjcmV0In0seyJrZXkiOiJwdWJsaWNfdG9rZW4iLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJhY2Nlc3NfdG9rZW4iLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJhc3NldF9yZXBvcnRfdG9rZW4iLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJlbnZfdXJsIiwidmFsdWUiOiJzYW5kYm94LnBsYWlkLmNvbSIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJhY2NvdW50X2lkIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCJ9LHsia2V5IjoicHJvY2Vzc29yX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCJ9LHsia2V5IjoidHJhbnNmZXJfaWQiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJ0ZXh0In0seyJrZXkiOiJ1c2VyX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCJ9LHsia2V5IjoidXNlcl9pZCIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6InRleHQifV0=))
+
+([![Run in Postman](https://run.pstmn.io/button.svg)](https://web.postman.co/network/import?collection=16904982-d2ecc9ee-6281-45a6-bb3f-1d82b891ec4e-U16jPSJe&referrer=https%3A%2F%2Fapi-docs.alphastream.io%2F%23237262a9-e85b-4398-a491-e34efe126a84&versionTag=latest&environment=10022312-614ac5be-ff90-40d8-bd62-b963270eaa36-U16jPSJe&traceId=undefined)
 
 3. Once both the collection and the environment variables are imported into Postman, see the [Configuration](https://github.com/postman#configuration) section on how to correctly configure API keys with the collection.
 
