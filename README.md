@@ -45,7 +45,6 @@ https://web.postman.co/network/import?collection=16904982-d2ecc9ee-6281-45a6-bb3
 
 The AS Postman collection uses [Postman environment variables](https://learning.getpostman.com/docs/postman/environments_and_globals/intro_to_environments_and_globals/) to simplify each API request.
 
-![plaid-postman-configuration](/images/plaid-postman-config.png)
 
 1. Select the `API-Insights` environment in the top right corner
 2. Click the `eye` icon to open the environment settings
