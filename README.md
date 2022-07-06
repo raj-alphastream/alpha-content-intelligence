@@ -6,7 +6,7 @@ For Quickstart guides to our other API endpoints, see the [Alphastream Quickstar
 
 ## Getting started
 
-> Check out our [Alphastream Content Intel in Three Minutes](https://www.powtoon.com/s/fx2T4kVzNH2/1/m/s) and here is a [Quick Postman Demo in 90 Seconds](https://www.loom.com/share/772dcb7ca7864c5caf9540497f7bde6d) video tutorial.
+> Here is a [Quick Postman Demo in 90 Seconds](https://www.loom.com/share/772dcb7ca7864c5caf9540497f7bde6d) video tutorial.
 
 [![Watch the demo video](https://github.com/raj-alphastream/postman1/blob/af3c6d6aa11f7eae997abdcb8d376c52cadae54d/images/Postman-demo-img.png)](https://www.loom.com/share/772dcb7ca7864c5caf9540497f7bde6d)
 
