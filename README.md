@@ -83,9 +83,8 @@ The response will contain an `access_token` suitable for making calls in Product
 
 You can develop your insights dashboard by importing the data into a tool like PowerBI. 
 
-This is an EX. only... 
+This is an example only.
 
-https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png 
  ![[bi-config]](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)
 
 
