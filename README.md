@@ -88,4 +88,4 @@ This is an example only.
  ![[bi-config]](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)
 
 
-Want to learn more? [Contact Us](https://alphastream.io/contact/) to request a custom analytics project with Alphastream. 
+
