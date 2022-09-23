@@ -85,12 +85,12 @@ You can develop your insights dashboard by importing the data into a tool like P
 This is a sample dashboard that I set up for myself.
 
 [![Watch the demo video](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)](https://www.loom.com/share/772dcb7ca7864c5caf9540497f7bde6d)
-
- ![[bi-config]](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)
  
  > Check out the PowerBI dashboard [Alphastream Content Intel Dashboard](https://www.loom.com/share/a6dfccb3303741209d47386528e4307f) demo. 
+
+[![Watch the demo video](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)](<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a6dfccb3303741209d47386528e4307f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
  
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a6dfccb3303741209d47386528e4307f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Contact me here to request a custom data analytics/ visualisation project. 
 
