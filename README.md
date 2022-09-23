@@ -84,7 +84,7 @@ You can develop your insights dashboard by importing the data into a tool like P
 
 This is a sample dashboard that I set up for myself.
 
-[![Watch the demo video](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)](https://www.loom.com/share/772dcb7ca7864c5caf9540497f7bde6d)
+[![Watch the demo video](https://github.com/raj-alphastream/alpha-content-intelligence/blob/461789cca944d4e5ceefe4168d5764e1bc39c785/images/PowerBI-content-dashboard.png)](https://www.loom.com/share/a6dfccb3303741209d47386528e4307f)
  
  > Check out the PowerBI dashboard [Alphastream Content Intel Dashboard](https://www.loom.com/share/a6dfccb3303741209d47386528e4307f) demo. 
 
