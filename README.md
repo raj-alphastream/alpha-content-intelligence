@@ -76,7 +76,7 @@ Can be done via Postman OR for reasons of security with specific client data can
 The response will contain an `access_token` suitable for making calls in Production (or Development)! As in the Quickstart, it will be automatically saved for you to use in future requests. You can then follow the same steps as you did in the Quickstart (starting with step 6) to make API requests for real data.
 
 
-## How to use the Data to develop your Content INTEL Dashboard
+## Here's how to use the Data to develop your Content INTEL Dashboard
 
 You can develop your insights dashboard by importing the data into a tool like PowerBI. 
 
