@@ -19,10 +19,6 @@ Here are some examples of how you can use these API endpoints that will be inclu
  1. Analysis example – how many tweets on an entity was published in last 24-hrs and was any anomaly detected? 
  2. Discovery example – what are the top-5 most spoken about entities in the last 3 days? 
  
- ![[postman-configuration]](https://github.com/raj-alphastream/postman1/blob/d73fcd7658909e298ff60a93f82a7dc9c24d7877/images/Trends%20Analysis.PNG))(/images/Trends Discovery.PNG)
-
-![[postman-configuration]](https://github.com/raj-alphastream/postman1/blob/98887f7edd33d07d88b889acd75d93fa75f972d3/images/Trends%20Discovery.PNG)(/images/Trends Discovery.PNG)
-
 •Content Coverage:
 Coverage by content volume within a specific sector/ sub-sector (Financial)
 
