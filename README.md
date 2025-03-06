@@ -1,4 +1,4 @@
-# Alphastream Content Intelligence Postman Collections
+# AI Content Intelligence - How To Intereact with our API - Postman Collections
 
 Welcome to our Content Intelligence (CI) Postman Collections Quickstart Guide! This guide provides you a quick way to get started with the CI API of Alphastream.
 
